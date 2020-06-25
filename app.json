@@ -1,0 +1,37 @@
+{
+  "name": "FileAssistantPy",
+  "description": "FileAssistant Python Version by @Telethon",
+  "logo": "https://i.hizliresim.com/L9wftc.png",
+  "keywords": [
+    "telegram",
+    "fileassistant"
+  ],
+  "repository": "https://gitlab.com/quiec/fileassistantpy",
+  "website": "https://t.me/FileAssistant",
+  "success_url": "https://t.me/FileAssistant/3",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable environment variables.",
+      "value": "ANYTHING"
+    },
+    "APIID": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": "8"
+    },
+    "APIHASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal",
+      "value": "7245de8e747a0d6fbe11f7cc14fcc0bb"
+    },
+    "BOTTOKEN": {
+      "description": "@BotFather",
+      "value": ""
+    },
+    "DOWNLOADPATH": {
+      "description": "Download Path",
+      "value": "Downloads/"
+    }
+  },
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
+}
