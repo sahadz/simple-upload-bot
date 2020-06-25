@@ -1,4 +1,4 @@
-# fileassistantpy
+# uploader
 Telethon version of FileAssistant. Look at the [PHP version](https://github.com/quiec/fileassistantphp).
 
 ## Features
