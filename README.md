@@ -31,10 +31,4 @@ nano config.py // Edit Infos
 python3 bot.py
 ```
 
-## Credits
-[My Telegram Channel](https://t.me/quiecs)
-
-[My Telegram](https://t.me/quiec)
-
-[My Blog](https://quiec.tech)
 
