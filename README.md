@@ -9,7 +9,7 @@ Telethon version of FileAssistant. Look at the [PHP version](https://github.com/
 
 - [ ] Rename File
 
-- [ ] Youtube Downloader (🤔)
+- [ ] Youtube Downloader
 
 - [ ] Files to Link
 
