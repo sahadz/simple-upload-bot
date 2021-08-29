@@ -1,17 +1,10 @@
 # uploader
-Telethon version of FileAssistant. Look at the [PHP version](https://github.com/quiec/fileassistantphp).
-
+ Simply upload bot based Telethon lib
 ## Features
 
 - [x] Link to Files
 
 - [x] SpeedTest
-
-- [ ] Rename File
-
-- [ ] Youtube Downloader
-
-- [ ] Files to Link
 
 - [x] TransferSh Uploader
 
